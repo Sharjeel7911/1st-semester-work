@@ -8,11 +8,11 @@
 - **Lecture:** Mehak Kausar  
 - **Lab:** Qaisar Nadeem
 
-## English I
-- **Lecture:** Ayesha Asif
-
 ## Discrete Structures
 - **Lecture:** Saba Naeem
+
+## English I
+- **Lecture:** Ayesha Asif
 
 ## Ideology & Constitution of Pakistan
 - **Lecture:** Taimur Khan
